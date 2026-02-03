@@ -8,8 +8,6 @@ Description:
 computing basic math operations for two inputs
 """
 
-import sys
-
 class Solution:
     def solve(self, a, b):
         """
