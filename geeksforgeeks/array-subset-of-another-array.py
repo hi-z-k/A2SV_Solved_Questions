@@ -42,6 +42,5 @@ def main():
         result = solver.solve(*data)
         UniversalSolver.output(result)
 
-
 if __name__ == "__main__":
     main()
