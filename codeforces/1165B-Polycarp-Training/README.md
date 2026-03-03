@@ -1,6 +1,6 @@
 # 1165B-Polycarp-Training
 
-**Problem:** [1165B-Polycarp-Training](https://codeforces.com/contest/1165/problem/B)
+**Problem:** [1165B-Polycarp-Training](https://codeforces.com/problemset/problem/1165/B)
 
 **time limit per test:** 2 seconds
 
